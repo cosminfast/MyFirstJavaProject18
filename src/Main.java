@@ -23,6 +23,9 @@ public class Main {
 //        System.out.println("suma lui varsta si y este: " + (varsta + y));
         System.out.println(x);
 
+
+        int aaaa = 33123;
+        System.out.println(aaaa);
     }
 
 }
