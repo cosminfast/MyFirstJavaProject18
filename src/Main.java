@@ -18,6 +18,7 @@ public class Main {
 //        int rez = x + 2 + ++x;
 
         x+=x+=x++ + ++x;
+        System.out.println(x);
 
 
 //        System.out.println("suma lui varsta si y este: " + (varsta + y));
@@ -25,5 +26,8 @@ public class Main {
 
 
     }
+
+
+
 
 }
